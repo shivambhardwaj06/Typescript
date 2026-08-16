@@ -1,0 +1,1 @@
+// "dev" : "npx tsc-node src/index.ts ",
